@@ -1,0 +1,10 @@
+export const LOGIN_USER = 'login_user';
+export const REGISTER_USER = 'register_user';
+export const AUTH_USER = 'auth_user';
+export const GOOGLE_USER = 'google_user';
+export const KAKAO_USER = 'kakao_user';
+export const CHECK_USERLOG = 'check_userLog'
+export const LOGOUT_USER = 'logout_user';
+export const SIGNOUT_USER = 'signout_user';
+export const GUEST_USER = 'guest_user';
+export const GUEST_LOGOUT = 'guest_logout';
